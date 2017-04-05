@@ -1,0 +1,19 @@
+*.class
+.idea*
+.imltarget*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
